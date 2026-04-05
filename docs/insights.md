@@ -1,5 +1,13 @@
 # 📌 Learnings & Insights
 
+---
+
+## 🏷️ Version
+v1.0 – Initial release with multi-agent pipeline
+
+---
+
+
 ## 🔍 Key Learnings
 - Learned how to design multi-agent systems using ADK
 - Understood real-world deployment using Google Cloud Run
