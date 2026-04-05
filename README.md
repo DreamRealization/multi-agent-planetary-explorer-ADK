@@ -116,6 +116,16 @@ User Input → Greeter Agent → Researcher Agent → Formatter Agent → Respon
 ---
 
 📂 Project Structure
+.
+├── src/
+│   └── agent.py
+├── docs/
+│   └── Planet_Guide_AI_Agent_Architecture.pdf
+│   └── requirements.txt
+│   └── insights.md
+├── screenshots/
+│   └── Project_Screenshot
+├── README.md
 
 
 ---
