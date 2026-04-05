@@ -135,6 +135,26 @@ User Input → Greeter Agent → Researcher Agent → Formatter Agent → Respon
  
 ---
 
+## ⚙️ How to Run Locally
+
+1. Clone the repository
+git clone https://github.com/DreamRealization/multi-agent-planetary-explorer-ADK.git
+
+2. Navigate to project folder
+cd multi-agent-planetary-explorer-ADK
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Set environment variables
+Create a `.env` file and add:
+MODEL=your_model_name
+
+5. Run the application
+python src/agent.py
+
+---
+
 ## 👨‍💻 Author
 **Dhyan Jain**  
 - Analyst | Data & AI Enthusiast  
