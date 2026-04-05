@@ -5,4 +5,4 @@ AI powered multi agent planetary explorer built using Google ADK and Gemini , De
 Link : https://planet-guide-agent-653631364629.europe-west1.run.app
 
 ## Project Output
-![Demo](screenshots/Project_Screenshot.png)
+![Demo](screenshot/Project_Screenshot.png)
