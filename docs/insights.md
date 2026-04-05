@@ -7,6 +7,9 @@ v1.0 – Initial release with multi-agent pipeline
 
 ---
 
+## 🙋 Why I Built This
+This project was built as part of my exploration into AI agents and real-world applications of GenAI. 
+With a background in analytics and business problem-solving, I aimed to combine structured data retrieval with intelligent response generation.
 
 ## 🔍 Key Learnings
 - Learned how to design multi-agent systems using ADK
