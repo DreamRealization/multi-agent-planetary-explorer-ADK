@@ -1,7 +1,9 @@
 # Multi-agent-planetary-explorer-ADK
 # 🚀 Planet Guide AI Agent  
 ### Multi-Agent Planetary Explorer using Google ADK + Gemini
-
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![AI](https://img.shields.io/badge/AI-Agents-green)
+![Deployment](https://img.shields.io/badge/Deployed-Cloud%20Run-orange)
 ---
 
 ## 📌 Problem Statement
