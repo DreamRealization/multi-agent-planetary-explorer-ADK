@@ -7,6 +7,11 @@ Link : https://planet-guide-agent-653631364629.europe-west1.run.app
 ## Project Output
 ![Demo](screenshot/Project_Screenshot.png)
 
+## 💬 Sample Queries
+- "Tell me about Mars"
+- "What is the atmosphere of Venus?"
+- "Are there any missions on Jupiter?"
+
 ## 🌍 Real-World Applications
 - Educational AI assistants (EdTech platforms)
 - Interactive learning tools for astronomy
